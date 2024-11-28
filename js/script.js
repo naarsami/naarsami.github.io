@@ -12,12 +12,12 @@ class Footer extends HTMLElement {
         <div class="container-fluid">
           <div class="footer">
             <div class="sort-note">
-              <a class="navbar-brand" href="index.html">Amir N</a>
-              <p>I’m Amir Naar, a Freelance Developer with a background in Bioinformatics, specializing in Back-End development.</p>
+              <a class="navbar-brand" href="index.html">Sami N</a>
+              <p>Je suis Sami Naar, Je mets en place votre infrastructure IT et gère tout ce qui touche au réseau.</p>
               <hr style="margin: 20px 0; color: rgb(82, 82, 82); width: 60%;">
-              <span class="contact"><a href="mailto:amir.naar.pro@gmail.com" class="email">
+              <span class="contact"><a href="mailto:naarsami@gmail.com" class="email">
                 <img src="./img/email.png" alt="email me"> &nbsp; &nbsp;
-                amir.naar.pro@gmail.com</a></span>
+                naarsami@gmail.com</a></span>
             </div>
             <div style="margin-top:5%;" class="quike-links text-center">
               <ul>
@@ -32,7 +32,7 @@ class Footer extends HTMLElement {
               </ul>
             </div>
             <div class="social-links text-center">
-              <a href="https://www.linkedin.com/in/amir-naar"><img src="./img/LinkedIn Circled.png" alt="linkedin"></a><br>
+              <a href="https://www.linkedin.com/in/sami-naar"><img src="./img/LinkedIn Circled.png" alt="linkedin"></a><br>
               <!-- <a href=""><img src="./img/Instagram.png" alt="Instagram"></a><br> -->
               <a href=""> <img src="./img/Twitter.png" alt="twitter"></a><br>
               <a href="https://github.com/amirn003"><img src="./img/GitHub.png" alt="github"></a>
